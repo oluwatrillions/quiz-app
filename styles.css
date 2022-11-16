@@ -43,11 +43,13 @@ li h3 {
 }
 
 button {
-    height: 5em;
+    height: 3em;
     outline: none;
     border: none;
-    background-color: rgb(166, 248, 241);
+    background-color: rgb(110, 175, 170);
     cursor: pointer;
+    font-size: 1.5em;
+    color: rgb(255, 255, 255);
 }
 
 button:active {
