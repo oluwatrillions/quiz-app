@@ -51,9 +51,10 @@ ul {
 li {
     display: flex;
     gap: 1em;
-    line-height: 2em;
+    line-height: 3em;
     list-style-type: none;
     cursor: pointer;
+    margin-bottom: 1em;
 }
 
 li h3 {
